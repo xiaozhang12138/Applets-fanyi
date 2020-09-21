@@ -1,0 +1,3 @@
+<view bindtap="showHello"> 
+  这是{{name}} 
+</view>
