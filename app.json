@@ -12,10 +12,12 @@
     "backgroundColor": "#ffffff"
   },
   "tabBar": {
-    "borderStyle": "white",
+    "custom": true,
+    "color": "#eee",
     "position": "top",
-    "color": "#595959",
-    "selectedColor": "#1c1b21",
+    "borderStyle": "black",
+    "selectedColor": "#000",
+    "backgroundColor": "#fff",
     "list": [
       {
         "pagePath": "pages/index/index",
@@ -26,6 +28,6 @@
         "text": "历史"
       }
     ]
-  },
+  },  
   "sitemapLocation": "sitemap70.json"
 }

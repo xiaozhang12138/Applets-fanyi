@@ -1,6 +1,6 @@
-/**index.wxss**/
 
 .change {
+  margin-top: 80rpx;
   color: #8995a1;
   font-size: 24rpx;
   padding: 20rpx 40rpx;

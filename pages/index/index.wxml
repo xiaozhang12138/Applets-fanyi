@@ -1,4 +1,3 @@
-<!--index.wxml-->
 <view class="container">
   <view class="change">
     <navigator url="/pages/change/change" hover-class="navigator-hover">
@@ -23,6 +22,6 @@
     </view>
   </view>
   <view class="copyright">
-    <text>© 2018 饥人谷</text>
+    <text>© 简单翻译</text>
   </view>
 </view>

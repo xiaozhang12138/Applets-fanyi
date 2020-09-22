@@ -1,7 +1,6 @@
-//app.js
+
 App({
   onLaunch: function () {
-    // 展示本地存储能力
     this.globalData.curLang = wx.getStorageSync('curLang') ||     this.globalData.langList[0]
   },
   globalData: {
